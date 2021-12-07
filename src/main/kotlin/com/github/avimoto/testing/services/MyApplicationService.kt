@@ -1,6 +1,6 @@
-package org.jetbrains.plugins.template.services
+package com.github.avimoto.testing.services
 
-import org.jetbrains.plugins.template.MyBundle
+import com.github.avimoto.testing.MyBundle
 
 class MyApplicationService {
 
